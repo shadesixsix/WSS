@@ -176,7 +176,7 @@ public class NewBehaviourScript : MonoBehaviour
 }
 ```
 - Как видно на изображении ниже, скрипт работает без проблем и в Unity наглядно изображена динамика изменения здоровья
-![image](https://github.com/sssfgggm/wss/blob/main/codde.jpg)
+![image](https://github.com/shadesixsix/WSS/blob/main/23.jpg)
 
 ## Выводы
 
